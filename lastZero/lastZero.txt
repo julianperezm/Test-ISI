@@ -1,0 +1,5 @@
+1. Devuelve la posicion del primero 0 y no del ultimo
+2. Que la lista sea null, o pasarle un array que no contenga el 0
+3. 
+4. Tenemos [0,1,2,3] esperamos 0 y nos da 0
+5. Tenemos [0,0,1,2] esperamos 1 peros nos da 0

@@ -1,0 +1,5 @@
+1. No tiene en cuenta los numeros negativos
+2. Si la lista esta vacia no se ejecuta el if
+3. No haya numeros negativos
+4. Tenemos [1, 3, 9, 4] esperamos 3 y nos devuelve 3
+5. Tenemos [1,3,9, -3] esperamos 4 pero nos devuelve 3

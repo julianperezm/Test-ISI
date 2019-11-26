@@ -1,0 +1,5 @@
+1. Cuenta el 0 como numero positivo, no lo es, es natural.
+2. No es posible ya que siempre entra al if
+3. Poniendo cualquier numero siempre que no se incluya el 0
+4. [1,2,-3,-2] esperamos 2 y recibe 2
+5. Será erroneo cuando tengamos un 0.

@@ -1,0 +1,5 @@
+1. El array no llega a la posicion 0 se queda en la 1
+2. Siempre ejecutaremos el for
+3. cuando el numero que buscamos no este en la primera posicion
+4. el test no pasa cuando hay error de estado
+5. Si tenemos [1,2,0,0] esperas 3 pero te da 2.
